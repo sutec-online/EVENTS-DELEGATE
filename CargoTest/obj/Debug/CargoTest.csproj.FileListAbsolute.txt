@@ -1,0 +1,8 @@
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\bin\Debug\CargoTest.exe.config
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\bin\Debug\CargoTest.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\bin\Debug\CargoTest.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\bin\Debug\CargoVehicle.dll
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\bin\Debug\CargoVehicle.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\obj\Debug\CargoTest.csprojResolveAssemblyReference.cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\obj\Debug\CargoTest.exe
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoTest\obj\Debug\CargoTest.pdb

@@ -1,0 +1,5 @@
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoVehicle\bin\Debug\CargoVehicle.dll
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoVehicle\bin\Debug\CargoVehicle.pdb
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoVehicle\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoVehicle\obj\Debug\CargoVehicle.dll
+c:\users\seymasarigil\documents\visual studio 2015\Projects\CargoVehicle\CargoVehicle\obj\Debug\CargoVehicle.pdb
